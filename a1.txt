@@ -1,1 +1,2 @@
-welcome to phase 1 of mean stack
+welcome to phase 1 of mean stack - change 1
+change added in line 2
